@@ -8,3 +8,4 @@ Se diseñó una topología estrella utilizando un Switch Cisco 2960, aplicando *
 
 ### Configuración de Seguridad (CLI)
 Implementación técnica exacta
+![Configuración CLI](CLI.png)
