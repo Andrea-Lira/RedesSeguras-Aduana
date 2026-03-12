@@ -16,11 +16,12 @@ Para confirmar que la política se cargó correctamente en el Hardware se utiliz
 
 ![Captura de Verificación](VERIFICACIONACL.png)
 
-** Validación y Diagnóstico (Troubleshooting)
--**Hallazgo:** Se validó la la carga correcta de la regla en ACL
--**Diagnóstico:** Se identificón que, a pesar de la sintaxis correcta el motor de simulación no generaba "matches" activos, lo que permitió realizar un diágnostico de integridad del entorno de pruebas y asegurar la persistencia de la configuración en el archivo de ejecución
+## 4. Diagnóstico de Red
+- **Estado:** Configuración exitosa en CLI.
+- **Observación:** El simulador no reportó matches (Bug de Packet Tracer).
+- **Acción:** Se validó la persistencia de la regla con comandos de verificación.
 
-##Habilidades Demostradas
+## Habilidades Demostradas
 Configuración de CLI de Cisco
 Gestión de Seguridad Perimetral
 Troubleshooting y Diagnóstico de infraestructura
