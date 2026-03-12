@@ -10,3 +10,6 @@ Se diseñó una topología estrella utilizando un Switch Cisco 2960, aplicando *
 Implementación técnica exacta
 
 ![Configuración CLI](CLI.png)
+
+### Verificación de Políticas
+Utilización del comando `show ip access-list` para validad la persistencia de las reglas en el equipo:
