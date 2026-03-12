@@ -22,8 +22,8 @@ Para confirmar que la política se cargó correctamente en el Hardware se utiliz
 - **Acción:** Se validó la persistencia de la regla con comandos de verificación.
 
 ## Habilidades Demostradas
-Configuración de CLI de Cisco
-Gestión de Seguridad Perimetral
-Troubleshooting y Diagnóstico de infraestructura
-Documentación técnica
+- **Configuración de CLI de Cisco**
+- **Gestión de Seguridad Perimetral**
+- **Troubleshooting y Diagnóstico de infraestructura**
+- **Documentación técnica**
 
